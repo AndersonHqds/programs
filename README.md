@@ -7,3 +7,5 @@ hidder.py --> It hide files into image
 Base64code.c --> It's a base64 encoder
 
 Base64Decode.c --> It's a base64 decoder
+
+Base64.c --> It's a base64 encoder/decoder
